@@ -63,3 +63,7 @@ https://www.semanticscholar.org/paper/Measuring-the-Impact-of-Open-Source-Softwa
 https://www.semanticscholar.org/paper/Sentiment-Analysis-of-Amazon-Customers-for-Sadhvi-Sinha-Mishra/ae42c11f89fce7517ea94302f322523cbf4a593d
 
 A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions : https://arxiv.org/pdf/2109.12843v2.pdf
+
+package for scraping GitHub data: https://pypi.org/project/scrape-up/
+Graph Neural Networks in Recommender Systems: A Survey(https://arxiv.org/pdf/2011.02260.pdf)
+A Comprehensive Survey on Graph Neural Networks(https://ieeexplore.ieee.org/abstract/document/9046288)
