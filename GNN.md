@@ -69,6 +69,7 @@
 
 
 <h2>collaborative filtering :</h2>
+
 - CF model for books RS : https://youtu.be/1YoD0fg3_EM (code : https://github.com/campusx-official/book-recommender-system/blob/master/book-recommender-system.ipynb)
 - video : https://youtu.be/RVJV8VGa1ZY
 - Collaborative and content based filtering video : https://youtu.be/v90un9ALRzw
