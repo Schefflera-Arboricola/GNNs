@@ -3,6 +3,7 @@
 <h2>papers :</h2>
 
 <h3>GNN models :</h3> 
+
 - GAT : https://arxiv.org/pdf/1710.10903.pdf
 - Heterogeneous Graph Attention Network Xiao Wang et al. : https://arxiv.org/pdf/1903.07293v1.pdf
 - GCMC: https://arxiv.org/pdf/1706.02263.pdf
