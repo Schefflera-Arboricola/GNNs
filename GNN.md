@@ -76,15 +76,20 @@
 
 
 <h2>others :</h2>
+
 - GFI-Bot: Automated Good First Issue Recommendation on GitHub: https://hehao98.github.io/files/2022-gfibot.pdf
 - Graph fraud detection papers: https://github.com/safe-graph/graph-fraud-detection-papers
 - Benchmarking Graph Neural Networks: https://arxiv.org/pdf/2003.00982.pdf
 
 
 
+# Final things 
 
 <b>
+
 - Notes: https://notability.com/n/1Yrlq8P7W0husDliZVHAWo
 - video : https://youtu.be/gPm_DZ3mOJM 
 - code : 
+- blog : 
+
 </b>
