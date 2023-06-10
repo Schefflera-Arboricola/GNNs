@@ -16,6 +16,7 @@
 - MAGNN: https://arxiv.org/pdf/2002.01680.pdf
 - Link prediction based on GNNs : https://arxiv.org/pdf/1802.09691.pdf
 - Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges : https://arxiv.org/abs/2104.13478
+- GCN : https://arxiv.org/pdf/1609.02907.pdf 
 
 <h3>survey papers :</h3>
 
@@ -88,9 +89,11 @@
 
 <b>
 
+- Code(GNN model) : https://github.com/Schefflera-Arboricola/GNNs 
+- Code(data collection): https://colab.research.google.com/drive/1Y4Y0BEGSshw7LOHy_1TNwXZBBq44SvTD?usp=sharing  
+- dataset :
+- blog : 
 - Notes: https://notability.com/n/1Yrlq8P7W0husDliZVHAWo
 - video : https://youtu.be/gPm_DZ3mOJM 
-- code : 
-- blog : 
 
 </b>
