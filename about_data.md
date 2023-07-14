@@ -2,10 +2,12 @@
 
 1. Randomly sampled 1020 developers using GitHub API with the following properties :
      - at least 7 repos with Python as a language
-       `from github import Github
+       ```
+        from github import Github
         g = Github('github_pat_token')
         query = 'type:user repos:>7 language:Python'
-        developers = g.search_users(query=query)`
+        developers = g.search_users(query=query)
+       ```
 
 2. Then I collected all these developer nodes' features. 
 3. Then I went through pinned repositories of all the developers and simultaneously added entries in repositories.csv and edgelist.csv. 
