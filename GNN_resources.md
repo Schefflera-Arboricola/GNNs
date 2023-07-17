@@ -90,8 +90,7 @@
 <b>
 
 - Code(GNN model) : https://github.com/Schefflera-Arboricola/GNNs 
-- Code(data collection): https://colab.research.google.com/drive/1Y4Y0BEGSshw7LOHy_1TNwXZBBq44SvTD?usp=sharing  
-- dataset :
+- dataset : https://www.kaggle.com/datasets/aditijuneja/github-bipartite-graph-datasetdevelopersrepos 
 - blog : 
 - Notes: https://notability.com/n/1Yrlq8P7W0husDliZVHAWo
 - video : https://youtu.be/gPm_DZ3mOJM 
